@@ -3,7 +3,8 @@
 ## Integrantes:
 - Samuel Santos;
 - Pedro Henrique;
-- Leonardo Filho.
+- Leonardo Filho;
+- Sean Lucas.
 
 ## Abordagens da Coleta de Dados:
 - Utilização da Steam Web API, (plataforma oficial e gratuita);
