@@ -1,51 +1,51 @@
-id,game,release_date,min_age,is_free,price_USD
-578080,PUBG: BATTLEGROUNDS,"Dec 21, 2017",0,True,
-1938090,Call of Duty®,"Oct 27, 2022",17,False,
-1245620,ELDEN RING,"Feb 24, 2022",16,False,59.99
-346110,ARK: Survival Evolved,"Aug 27, 2017",0,False,14.99
-570,Dota 2,"Jul 9, 2013",0,True,
-1085660,Destiny 2,"Oct 1, 2019",0,True,
-534380,Dying Light 2 Stay Human: Reloaded Edition,"Feb 3, 2022",18,False,59.99
-1172470,Apex Legends™,"Nov 4, 2020",0,True,
-730,Counter-Strike 2,"Aug 21, 2012",0,True,
-1599340,Lost Ark,"Feb 11, 2022",17,True,
-1568590,Goose Goose Duck,"Oct 3, 2021",0,True,
-1449850,Yu-Gi-Oh! Master Duel,"Jan 18, 2022",0,True,
-1818750,MultiVersus,"Jul 19, 2022",0,False,
-1091500,Cyberpunk 2077,"Dec 9, 2020",17,False,59.99
-431960,Wallpaper Engine,"Nov 16, 2018",0,False,4.99
-1604030,V Rising,"May 8, 2024",0,False,34.99
-252490,Rust,"Feb 8, 2018",0,False,39.99
-1203220,NARAKA: BLADEPOINT,"Aug 11, 2021",0,True,
-440,Team Fortress 2,"Oct 10, 2007",0,True,
-271590,Grand Theft Auto V Legacy,"Apr 13, 2015",17,False,
-1142710,Total War: WARHAMMER III,"Feb 16, 2022",0,False,59.99
-238960,Path of Exile,"Oct 23, 2013",0,True,
-1063730,New World: Aeternum,"Sep 28, 2021",0,False,59.99
-1446780,MONSTER HUNTER RISE,"Jan 12, 2022",0,False,39.99
-1811260,EA SPORTS™ FIFA 23,"Sep 30, 2022",0,False,
-1361210,"Warhammer 40,000: Darktide","Nov 30, 2022",0,False,39.99
-920210,LEGO® Star Wars™: The Skywalker Saga,"Apr 5, 2022",0,False,49.99
-1794680,Vampire Survivors,"Oct 20, 2022",0,False,4.99
-552500,Warhammer: Vermintide 2,"Mar 8, 2018",0,False,29.99
-892970,Valheim,"Feb 2, 2021",0,False,19.99
-359550,Tom Clancy's Rainbow Six® Siege X,"Dec 1, 2015",17,True,
-1222680,Need for Speed™ Heat,"Jun 4, 2020",0,False,69.99
-289070,Sid Meier’s Civilization® VI,"Oct 20, 2016",0,False,59.99
-381210,Dead by Daylight,"Jun 14, 2016",17,False,19.99
-648800,Raft,"Jun 20, 2022",0,False,19.99
-304930,Unturned,"Jul 7, 2017",0,True,
-1418630,Dread Hunger,"Jan 26, 2022",0,False,
-550,Left 4 Dead 2,"Nov 16, 2009",0,False,9.99
-1222670,The Sims™ 4,"Jun 18, 2020",0,True,
-236390,War Thunder,"Aug 15, 2013",0,True,
-230410,Warframe,"Mar 25, 2013",17,True,
-105600,Terraria,"May 16, 2011",0,False,9.99
-292030,The Witcher 3: Wild Hunt,"May 18, 2015",17,False,39.99
-242760,The Forest,"Apr 30, 2018",0,False,19.99
-1506830,FIFA 22,"Oct 1, 2021",0,False,
-1097150,Fall Guys,"Aug 3, 2020",0,False,
-394360,Hearts of Iron IV,"Jun 6, 2016",0,False,49.99
-4000,Garry's Mod,"Nov 29, 2006",0,False,9.99
-221100,DayZ,"Dec 13, 2018",17,False,49.99
-1817070,Marvel’s Spider-Man Remastered,"Aug 12, 2022",0,False,59.99
+id
+534380
+730
+1449850
+1938090
+1085660
+1172470
+346110
+1568590
+578080
+1599340
+570
+1245620
+1091500
+1818750
+1604030
+1446780
+1142710
+1203220
+431960
+238960
+1063730
+252490
+271590
+440
+1361210
+1506830
+1222670
+552500
+381210
+242760
+230410
+920210
+236390
+289070
+359550
+1222680
+1811260
+550
+648800
+1794680
+105600
+292030
+892970
+1418630
+304930
+413150
+529340
+1623660
+440900
+1817070

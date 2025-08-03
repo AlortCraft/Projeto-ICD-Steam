@@ -1,51 +1,51 @@
-id,game,release_date,min_age,is_free,price_USD
-1716740,Starfield,"Sep 5, 2023",17,False,69.99
-1086940,Baldur's Gate 3,"Aug 3, 2023",17,False,59.99
-1085660,Destiny 2,"Oct 1, 2019",0,True,
-1326470,Sons Of The Forest,"Feb 22, 2024",0,False,29.99
-1172470,Apex Legends™,"Nov 4, 2020",0,True,
-1568590,Goose Goose Duck,"Oct 3, 2021",0,True,
-1599340,Lost Ark,"Feb 11, 2022",17,True,
-990080,Hogwarts Legacy,"Feb 10, 2023",0,False,59.99
-730,Counter-Strike 2,"Aug 21, 2012",0,True,
-570,Dota 2,"Jul 9, 2013",0,True,
-578080,PUBG: BATTLEGROUNDS,"Dec 21, 2017",0,True,
-1203220,NARAKA: BLADEPOINT,"Aug 11, 2021",0,True,
-2073850,THE FINALS,"Dec 7, 2023",0,True,
-238960,Path of Exile,"Oct 23, 2013",0,True,
-1938090,Call of Duty®,"Oct 27, 2022",17,False,
-1888160,ARMORED CORE™ VI FIRES OF RUBICON™,"Aug 24, 2023",13,False,59.99
-1966720,Lethal Company,"Oct 23, 2023",0,False,9.99
-440,Team Fortress 2,"Oct 10, 2007",0,True,
-271590,Grand Theft Auto V Legacy,"Apr 13, 2015",17,False,
-252490,Rust,"Feb 8, 2018",0,False,39.99
-2050650,Resident Evil 4,"Mar 23, 2023",0,False,39.99
-1091500,Cyberpunk 2077,"Dec 9, 2020",17,False,59.99
-2399830,ARK: Survival Ascended,"Oct 25, 2023",0,False,44.99
-251570,7 Days to Die,"Jul 25, 2024",0,False,44.99
-1245620,ELDEN RING,"Feb 24, 2022",16,False,59.99
-739630,Phasmophobia,"Sep 18, 2020",0,False,19.99
-1517290,Battlefield™ 2042,"Nov 19, 2021",17,False,59.99
-381210,Dead by Daylight,"Jun 14, 2016",17,False,19.99
-1811260,EA SPORTS™ FIFA 23,"Sep 30, 2022",0,False,
-1260320,Party Animals,"Sep 20, 2023",0,False,19.99
-949230,Cities: Skylines II,"Oct 24, 2023",0,False,49.99
-2252570,Football Manager 2024,"Nov 6, 2023",0,False,59.99
-550,Left 4 Dead 2,"Nov 16, 2009",0,False,9.99
-1238810,Battlefield™ V,"Oct 22, 2020",17,False,49.99
-359550,Tom Clancy's Rainbow Six® Siege X,"Dec 1, 2015",17,True,
-346110,ARK: Survival Evolved,"Aug 27, 2017",0,False,14.99
-1868140,DAVE THE DIVER,"Jun 28, 2023",0,False,19.99
-1282100,REMNANT II®,"Jul 25, 2023",17,False,49.99
-304930,Unturned,"Jul 7, 2017",0,True,
-289070,Sid Meier’s Civilization® VI,"Oct 20, 2016",0,False,59.99
-892970,Valheim,"Feb 2, 2021",0,False,19.99
-236390,War Thunder,"Aug 15, 2013",0,True,
-1920960,VPet-Simulator,"Aug 13, 2023",0,True,
-230410,Warframe,"Mar 25, 2013",17,True,
-322330,Don't Starve Together,"Apr 21, 2016",0,False,14.99
-2195250,EA SPORTS FC™ 24,"Sep 28, 2023",0,False,
-671860,BattleBit Remastered,"Jun 15, 2023",0,False,14.99
-242760,The Forest,"Apr 30, 2018",0,False,19.99
-1607250,MY HERO ULTRA RUMBLE,"Sep 28, 2023",0,True,
-1063730,New World: Aeternum,"Sep 28, 2021",0,False,59.99
+id
+730
+1599340
+1568590
+570
+1085660
+1326470
+578080
+1172470
+990080
+1716740
+1086940
+2073850
+1091500
+2050650
+1966720
+252490
+1938090
+271590
+238960
+440
+1888160
+1203220
+1238810
+2252570
+251570
+304930
+236390
+671860
+739630
+346110
+1920960
+1260320
+1517290
+1245620
+230410
+1282100
+2195250
+892970
+550
+289070
+949230
+322330
+359550
+1868140
+2399830
+1811260
+381210
+252950
+1142710
+292030
