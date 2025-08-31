@@ -1,64 +1,59 @@
 gpu,classification
-NVIDIA GeForce GTX 1050 ti or AMD R9 380,medium
-Nvidia GeForce GTX 650 Ti / AMD Radeon HD 7850,low
-"Nvidia Geforce GTX 650, AMD Radeon HD 7770 graphics card or better (min. 2 GB VRAM, DX11 support)",low
-Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB,low
-Nvidia Geforce GTX 660 / AMD HD 7870 / Intel Arc A380,low
-"NVIDIA GeForce GTX 750 Ti (Maxwell or newer), 2 GB or AMD Radeon R7 360, 2 GB",low
-Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB,medium
-"NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB",medium
-"NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB",medium
-"AMD Radeon R9 285, NVIDIA GeForce GTX 660",low
-"NVIDIA GTX 1650 Super or AMD Radeon RX 5500 XT, with a minimum of 4GB of VRAM",medium
-NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM,high
-NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470,medium
-NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470,medium
-"Intel GMA X4500, NVIDIA GeForce 9600M GT, AMD/ATI Mobility Radeon HD 3650 - requires 256MB VRAM and DirectXÂ® 11",very low
-"NVIDIA GeForce GTX 1050Ti (4GB), GTX 1060 (3GB), GTX 1650 (4GB) or AMD Radeon R9 280(3GB), AMD Radeon R9 290 (4GB), RX 470 (4GB)",medium
-Integrated Graphics,very low
-Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750,medium
-NVIDIA GeForce GTX 1050 Ti 4GB or AMD Radeon RX 570 4GB,medium
-AMD Radeon RX 470,medium
-NVIDIA GeForce GTX 460 / AMD HD6850,low
-"128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better",very low
-NVIDIA GeForce GTX 760 or AMD R9 270X,low
-NVIDIA GeForce GTX 760 | AMD Radeon HD 7950,low
-NVIDIA GeForce GTX 460 or AMD Radeon HD 5870,low
-NVIDIAÂ® GeForceÂ® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB,low
-GeForce GTX 1650  / AMD Radeon RX 590,high
-"NVIDIA GeForce GTX 660, ATI Radeon HD 7850",low
-NVIDIA Geforce GTS 450 / AMD Radeon HD 5570,very low
-NVIDIA Geforce GTS 450 / AMD Radeon HD 5570,very low
-"NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600",very low
-NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB,medium
-NVIDIA GeForce 760 GTX or AMD Radeon R9 280,medium
-AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM,medium
-Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750,medium
-NVIDIA GeForce GT 730 or equivalent,very low
-Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB),medium
-"AMD Radeon R9 285, NVIDIA GeForce GTX 660 (2GB VRAM with Shader Model 5.0) (MORE DETAILS HERE)",low
-GeForce GTX 1050Ti / AMD Radeon RX 570 / Intel Arc A380,medium
-NVIDIA GTX 770 | AMD Radeon RX 570,medium
-NVIDIA GeForce GTX 560 Ti / AMD Radeon HD 6850,low
-DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.,low
-NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB,medium
-NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB,medium
-"NVIDIA GeForce GTX 970 or higher, AMD Radeon RX 480 or higher",medium
-NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580,medium
-NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB,medium
-"Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)",medium
-1 GB & AMD 5570 or nVidia 450 or Intel Integrated Graphics 530,very low
-NVIDIA GeForce GTX 660 1GB,low
-NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380,medium
-"Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better",very low
-"AMD Radeon RX 5600 XT, NVIDIA GeForce 1080",medium
-"AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti",medium
-NVIDIA GeForce GTX 970 OR AMD Radeon RX 570,medium
-NVIDIA GTX 1060 3 GB / AMD Radeon RX 590,high
-NVIDIA GeForce GTX 1650,medium
 "AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti",very high
-NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB,medium
-"DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",very low
-GTX 580 / AMD HD 7870,low
 NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB,low
+"128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better",very low
+NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB,medium
+"Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better",very low
+GTX 580 / AMD HD 7870,low
+NVIDIA GeForce GTX 460 or AMD Radeon HD 5870,low
+GeForce GTX 1650  / AMD Radeon RX 590,high
+"NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600",very low
+NVIDIA GeForce GT 730 or equivalent,very low
+"AMD Radeon RX 5600 XT, NVIDIA GeForce 1080",medium
+AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM,medium
+NVIDIA GTX 770 | AMD Radeon RX 570,medium
+"AMD Radeon R9 285, NVIDIA GeForce GTX 660 (2GB VRAM with Shader Model 5.0) (MORE DETAILS HERE)",low
+NVIDIA GeForce GTX 1050 ti or AMD R9 380,medium
+Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB,medium
+Nvidia GeForce GTX 650 Ti / AMD Radeon HD 7850,low
+Nvidia GeForce GTX 650 Ti / AMD Radeon HD 7850,low
+Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750,medium
+Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB),medium
+Nvidia Geforce GTX 660 / AMD HD 7870 / Intel Arc A380,low
+NVIDIAÂ® GeForceÂ® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB,low
+NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB,medium
+"AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti",medium
+Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB,low
+NVIDIA GeForce GTX 660 1GB,low
+NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580,medium
+"Intel GMA X4500, NVIDIA GeForce 9600M GT, AMD/ATI Mobility Radeon HD 3650 - requires 256MB VRAM and DirectXÂ® 11",very low
+GeForce GTX 1050Ti / AMD Radeon RX 570 / Intel Arc A380,medium
+"NVIDIA GeForce GTX 970 or higher, AMD Radeon RX 480 or higher",medium
 NVIDIA GeForce GTX 1050 Ti OR AMD Radeon RX 570,medium
+NVIDIA GeForce GTX 760 | AMD Radeon HD 7950,low
+1 GB & AMD 5570 or nVidia 450 or Intel Integrated Graphics 530,very low
+NVIDIA GTX 1060 3 GB / AMD Radeon RX 590,high
+NVIDIA GeForce GTX 1050 Ti 4GB or AMD Radeon RX 570 4GB,medium
+Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750,medium
+NVIDIA GeForce GTX 970 OR AMD Radeon RX 570,medium
+NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM,high
+AMD Radeon RX 470,medium
+Integrated Graphics,very low
+DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.,low
+NVIDIA GeForce GTX 460 / AMD HD6850,low
+NVIDIA Geforce GTS 450 / AMD Radeon HD 5570,very low
+NVIDIA GeForce GTX 1650,medium
+NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470,medium
+NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB,medium
+NVIDIA GeForce 760 GTX or AMD Radeon R9 280,medium
+NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB,medium
+"DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",very low
+"NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB",medium
+"Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)",medium
+NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380,medium
+NVIDIA GeForce GTX 760 or AMD R9 270X,low
+NVIDIA GeForce GTX 560 Ti / AMD Radeon HD 6850,low
+"NVIDIA GeForce GTX 750 Ti (Maxwell or newer), 2 GB or AMD Radeon R7 360, 2 GB",low
+NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB,medium
+"NVIDIA GeForce GTX 660, ATI Radeon HD 7850",low
+"NVIDIA GeForce GTX 1050Ti (4GB), GTX 1060 (3GB), GTX 1650 (4GB) or AMD Radeon R9 280(3GB), AMD Radeon R9 290 (4GB), RX 470 (4GB)",medium
