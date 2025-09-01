@@ -12,7 +12,7 @@
 - Uso de Scraping por meio de ferramentas como Selenium, BeautifulSoup e Requests em site da Steam que possui javascript dinâmico para a coleta dos IDs dos jogos.
 - Uso da API HowLongToBeatPy para coletar dados de tempo de jogo do site HowLongToBeat.
 - Uso de Endpoints da Steam e de ferramentas como Requests, json e html, para a coleta de informações gerais dos jogos, incluindo as análises e o pico de jogadores.
-- Uso do Pandas para armazenar os dados coletados em arquivos CSV:
+- Uso do Pandas para armazenar os dados coletados em arquivos CSV.
 
 ### Dados Coletados:
 - IDs dos jogos mais jogados de 2019 a 2024;
