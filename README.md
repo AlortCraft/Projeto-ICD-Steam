@@ -97,3 +97,5 @@ Este conjunto de dados tem o tempo de jogo necessário para terminar a história
 
 - completionist: Tempo médio para colecionar todas as conquistas dos jogos
     - Exemplo: "completionist": 135.13
+
+### Link para Google Drive contendo os Arquivos CSV: https://drive.google.com/drive/folders/14bGmrpM3Aypa2ZOq5T5ZV_4AojDhR5yS?usp=sharing
