@@ -7,13 +7,13 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 264710,Subnautica,2018-01-23,29.99,"Adventure, Indie",Intel HD 4600 or equivalent - This includes most GPUs scoring greater than 950 points in the 3DMark Fire Strike benchmark,1.0,19035.0
 231430,Company of Heroes 2,2013-06-25,19.99,Strategy,512MB Direct3D 10 capable video card (GeForce 8800 GT or Radeon HD 2900XT),1.0,34707.0
 1145350,Hades II,2025-09-25,29.99,"Action, Indie, RPG","GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630",4.0,102386.0
-1293830,Forza Horizon 4,2021-03-09,50.0,Racing,NVidia 650TI OR AMD R7 250x,1.0,75598.0
+1293830,Forza Horizon 4,2021-03-09,60.0,Racing,NVidia 650TI OR AMD R7 250x,1.0,75598.0
 230410,Warframe,2013-03-25,0.0,"Action, RPG, Free To Play",NVidia 650TI OR AMD R7 250x,1.0,129629.83333333333
 10,Counter-Strike,2000-11-01,9.99,Action,NVidia 650TI OR AMD R7 250x,1.0,27342.0
 1366540,Dyson Sphere Program,2021-01-20,19.99,"Indie, Simulation, Strategy, Early Access","Dedicated graphics card, GTX 750 Ti 2GB",2.0,59339.0
 2215430,Ghost of Tsushima DIRECTOR'S CUT,2024-05-16,59.99,"Action, Adventure",NVIDIA GeForce GTX 960 or AMD Radeon RX 5500 XT,2.0,77154.0
-1506830,FIFA 22,2021-10-01,50.0,"Simulation, Sports",NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB,2.0,91815.0
-1222670,The Sims™ 4,2020-06-18,50.0,"Adventure, Casual, Simulation, Free To Play","128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better",1.0,66937.0
+1506830,FIFA 22,2021-10-01,70.0,"Simulation, Sports",NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB,2.0,91815.0
+1222670,The Sims™ 4,2020-06-18,40.0,"Adventure, Casual, Simulation, Free To Play","128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better",1.0,66937.0
 1145360,Hades,2020-09-17,24.99,"Action, Indie, RPG",1GB VRAM / DirectX 10+ support,1.0,42216.333333333336
 1203220,NARAKA: BLADEPOINT,2021-08-11,0.0,"Action, Adventure, Massively Multiplayer","NVIDIA GeForce GTX 750TI, Intel Arc A380, AMD HD 6950 or equivalent",1.0,258538.75
 250900,The Binding of Isaac: Rebirth,2014-11-04,14.99,Action,Discreet video card,1.0,70483.0
@@ -44,7 +44,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 280640,Dark Shadows - Army of Evil,2014-03-11,4.99,"Action, Indie, RPG",AMD Radeonâ¢ 1300 / NVIDIAÂ® GeForceâ¢ 6600,1.0,39882.0
 848450,Subnautica: Below Zero,2021-05-13,29.99,"Adventure, Indie",Intel HD 530 or better,1.0,15637.0
 440900,Conan Exiles,2018-05-08,39.99,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",NVIDIA GeForce GTX 1650 or Radeon RX 580,4.0,32877.666666666664
-1313860,EA SPORTS™ FIFA 21,2020-10-08,50.0,"Simulation, Sports",NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB,2.0,43733.0
+1313860,EA SPORTS™ FIFA 21,2020-10-08,70.0,"Simulation, Sports",NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB,2.0,43733.0
 552520,Far Cry® 5,2018-03-26,59.99,"Action, Adventure",NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better),2.0,17762.0
 242760,The Forest,2018-04-30,19.99,"Action, Adventure, Indie, Simulation",NVIDIA GeForce 8800GT,1.0,68560.4
 252490,Rust,2018-02-08,39.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",GTX 1050 / AMD 500 Series or better,2.0,166998.66666666666
@@ -60,7 +60,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 1483870,Draw & Guess,2021-03-12,2.99,"Casual, Indie",Graphics card with DX10 (shader model 4.0) capabilities,1.0,40450.0
 1816670,GUNDAM EVOLUTION,2022-09-19,0.0,"Action, Free To Play",NVIDIAÂ® GeForceÂ® GTX 1050,2.0,55437.0
 648800,Raft,2022-06-20,19.99,"Adventure, Indie, Simulation",GeForce GTX 700 series or similar,,57722.333333333336
-1919590,NBA 2K23,2022-09-08,50.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB/ ATIÂ® Radeonâ¢ HD 7770 1 GB or better,2.0,58662.0
+1919590,NBA 2K23,2022-09-08,60.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB/ ATIÂ® Radeonâ¢ HD 7770 1 GB or better,2.0,58662.0
 703080,Planet Zoo,2019-11-05,44.99,"Casual, Simulation, Strategy",NVIDIA GeForce GTX 770 (2GB) / AMD Radeon R9 270X (2GB),2.0,38457.0
 1250410,Microsoft Flight Simulator (2020) 40th Anniversary Edition,2020-08-17,59.99,Simulation,NVIDIA GTX 770 | AMD Radeon RX 570,2.0,61775.0
 1973530,Limbus Company,2023-02-26,0.0,"Action, RPG, Strategy",GeForce GT 1030,2.0,50458.0
@@ -87,7 +87,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 920210,LEGO® Star Wars™: The Skywalker Saga,2022-04-05,49.99,"Action, Adventure",GeForce GTX 750 Ti or Radeon HD 7850,2.0,82446.0
 1845910,Dragon Age™: The Veilguard,2024-10-31,59.99,"Action, Adventure, RPG, Strategy",NVIDIA GTX 970/1650 / AMD Radeon R9 290X,4.0,60656.0
 1151640,Horizon Zero Dawn™ Complete Edition,2020-08-07,50.0,"Action, Adventure, RPG",Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB),3.0,49582.0
-841370,NBA 2K19,2018-09-10,50.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB / AMDÂ® Radeonâ¢ HD 7770 1GB or better,2.0,28638.0
+841370,NBA 2K19,2018-09-10,60.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB / AMDÂ® Radeonâ¢ HD 7770 1GB or better,2.0,28638.0
 218620,PAYDAY 2,2013-08-13,9.99,"Action, RPG",Nvidia & AMD (512MB VRAM),1.0,61918.0
 1593500,God of War,2022-01-14,49.99,"Action, Adventure, RPG",NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB),2.0,73529.0
 606880,GreedFall,2019-09-09,34.99,RPG,"2 GB, GeForce GTX 660/Radeon HD 7870",2.0,16190.0
@@ -115,7 +115,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 221380,Age of Empires II (Retired),2013-04-09,19.99,Strategy,Direct X 9.0c Capable GPU,1.0,20826.0
 858820,Tribes of Midgard,2021-07-27,19.99,"Action, Adventure, Indie, RPG",Nvidia GeForce GTX 560 (1GB) or AMD Radeon HD 7770 (1GB),1.0,30930.0
 2429640,THRONE AND LIBERTY,2024-10-01,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",NVIDIA Geforce GTX960,2.0,333393.0
-997070,Marvel's Avengers - The Definitive Edition,2020-09-04,50.0,"Action, Adventure, RPG",NVIDIA GTX 950 / AMD 270 (min 2GB video ram),4.0,28145.0
+997070,Marvel's Avengers - The Definitive Edition,2020-09-04,60.0,"Action, Adventure, RPG",NVIDIA GTX 950 / AMD 270 (min 2GB video ram),4.0,28145.0
 838350,The Scroll Of Taiwu,2018-09-20,19.99,"Adventure, Casual, Indie, RPG, Strategy, Early Access",HD4400,1.0,64066.0
 945360,Among Us,2018-11-16,4.99,Casual,INTEL HD Graphics 4600,,284331.0
 813780,Age of Empires II: Definitive Edition,2019-11-14,34.99,Strategy,NVIDIAÂ® GeForceÂ® GT 420 or ATIâ¢ Radeonâ¢ HD 6850 or IntelÂ® HD Graphics 4000 or better with 2 GB VRAM,1.0,33297.0
@@ -173,14 +173,14 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 1361210,"Warhammer 40,000: Darktide",2022-11-30,39.99,"Action, Adventure, RPG",NVIDIA GeForce GTX 970 OR AMD Radeon RX 570,4.0,107450.0
 2054970,Dragon's Dogma 2,2024-03-21,69.99,"Action, RPG",NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM,4.0,228285.0
 597820,BIOMUTANT,2021-05-25,39.99,"Action, RPG",4 GB Direct3D 11 capable video card - GeForce GTX 960 or Radeon R9 380,4.0,36397.0
-1811260,EA SPORTS™ FIFA 23,2022-09-30,50.0,"Simulation, Sports",NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 570,2.0,104869.0
+1811260,EA SPORTS™ FIFA 23,2022-09-30,70.0,"Simulation, Sports",NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 570,2.0,104869.0
 1643320,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024-11-20,59.99,"Action, Adventure, RPG",Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750,6.0,120960.0
 1454400,Cookie Clicker,2021-09-01,4.99,"Casual, Indie, Simulation, Strategy",Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750,6.0,67806.0
 644930,They Are Billions,2019-06-18,29.99,Strategy,"Intel HD3000, Radeon, Nvidia card with shader model 3, 1GB video ram.",1.0,17834.0
 1057090,Ori and the Will of the Wisps,2020-03-10,29.99,Action,Nvidia GTX 950 | AMD R7 370,4.0,31224.0
 2357570,Overwatch® 2,2023-08-10,0.0,"Action, Free To Play","NVIDIAÂ® GeForceÂ® GTX 600 series, AMD Radeonâ¢ HD 7000 series",1.0,68090.0
 2139460,Once Human,2024-07-09,0.0,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",Nvidia GTX 750ti 4G / AMD Radeon RX550,1.0,231343.0
-1089350,NBA 2K20,2019-09-06,50.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB / AMDÂ® Radeonâ¢ HD 7770 1GB or better,2.0,39860.0
+1089350,NBA 2K20,2019-09-06,60.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB / AMDÂ® Radeonâ¢ HD 7770 1GB or better,2.0,39860.0
 377160,Fallout 4,2015-11-09,19.99,RPG,NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent,1.0,82164.66666666667
 617290,Remnant: From the Ashes,2019-08-19,39.99,"Action, Adventure, RPG",AMD Radeon RX 470,1.0,48194.0
 1568590,Goose Goose Duck,2021-10-03,0.0,"Casual, Indie, Massively Multiplayer, Strategy, Free To Play",Integrated Graphics,1.0,558438.0
@@ -199,6 +199,12 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 211820,Starbound,2016-07-22,14.99,"Action, Adventure, Casual, Indie, RPG",256 MB graphics memory and directx 9.0c compatible gpu,1.0,20116.0
 534380,Dying Light 2 Stay Human: Reloaded Edition,2022-02-03,59.99,"Action, Adventure, RPG",NVIDIAÂ® GeForceÂ® GTX 1050 Ti / AMD Radeonâ¢ RX 560 (4GB VRAM),2.0,274983.0
 1599340,Lost Ark,2022-02-11,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Nvidia Geforce GTX 1050 Ti / AMD Radeon RX 560,2.0,584135.0
+1240440,Halo Infinite,2021-11-15,0.0,"Action, Free To Play",AMD RX 570 or Nvidia GTX 1050 Ti,2.0,159495.0
+582010,Monster Hunter: World,2018-08-08,29.99,Action,NVIDIAÂ®GeForceÂ®GTX 760 or GTX1050 or AMD Radeonâ¢ R7 260x or RX 560,2.0,146139.4
+1449850,Yu-Gi-Oh! Master Duel,2022-01-18,0.0,"Simulation, Strategy, Free To Play",NVIDIA GeForce GTX 1650,4.0,129477.66666666667
+1446780,MONSTER HUNTER RISE,2022-01-12,39.99,Action,NVIDIAÂ® GeForceÂ® GT 1030 (DDR4) or AMD Radeonâ¢ RX 550,2.0,149038.5
+553850,HELLDIVERS™ 2,2024-02-08,39.99,Action,NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470,2.0,458208.0
+881020,Granblue Fantasy: Relink,2024-01-31,59.99,"Action, Adventure, RPG",NVIDIAÂ® GeForce GTXâ¢ 1060 6GB / AMD Radeonâ¢ RX 580 8GB,6.0,113179.0
 1056640,Phantasy Star Online 2 New Genesis,2020-08-05,0.0,"Action, Massively Multiplayer, RPG, Free To Play",NVIDIA GeForceÂ® GT430,1.0,59197.0
 990080,Hogwarts Legacy,2023-02-10,59.99,"Action, Adventure, RPG",NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB,2.0,527652.0
 1248130,Farming Simulator 22,2021-11-21,29.99,Simulation,GeForce GTX 660 or AMD Radeon R7 265 or better (min 2GB VRAM),2.0,67332.75
@@ -216,7 +222,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 203160,Tomb Raider,2013-03-04,14.99,"Action, Adventure","DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",1.0,89494.0
 1172380,STAR WARS Jedi: Fallen Order™,2019-11-14,39.99,"Action, Adventure","AMD Radeon HD 7750, NVIDIA GeForce GTX 650 or Equivalent",1.0,46513.0
 4000,Garry's Mod,2006-11-29,9.99,"Casual, Indie, Simulation",1GB dedicated VRAM or better,1.0,50562.4
-1644960,NBA 2K22,2021-09-09,50.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB/ ATIÂ® Radeonâ¢ HD 7770 1 GB or better,2.0,46628.0
+1644960,NBA 2K22,2021-09-09,60.0,"Simulation, Sports",NVIDIAÂ® GeForceÂ® GT 450 1GB/ ATIÂ® Radeonâ¢ HD 7770 1 GB or better,2.0,46628.0
 1888160,ARMORED CORE™ VI FIRES OF RUBICON™,2023-08-24,59.99,Action,"NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB",4.0,156022.0
 2300320,Farming Simulator 25,2024-11-12,49.99,Simulation,"Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)",3.0,135883.0
 1203620,Enshrouded,2024-01-24,29.99,"Action, Adventure, Indie, RPG, Early Access",NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380,6.0,160361.0
