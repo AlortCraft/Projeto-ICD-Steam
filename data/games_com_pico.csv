@@ -199,6 +199,9 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 211820,Starbound,2016-07-22,14.99,"Action, Adventure, Casual, Indie, RPG",256 MB graphics memory and directx 9.0c compatible gpu,1.0,20116.0
 534380,Dying Light 2 Stay Human: Reloaded Edition,2022-02-03,59.99,"Action, Adventure, RPG",NVIDIAÂ® GeForceÂ® GTX 1050 Ti / AMD Radeonâ¢ RX 560 (4GB VRAM),2.0,274983.0
 1599340,Lost Ark,2022-02-11,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Nvidia Geforce GTX 1050 Ti / AMD Radeon RX 560,2.0,584135.0
+1151340,Fallout 76,2020-04-14,39.99,RPG,NVIDIA GTX 780 3GB /AMD Radeon R9 285 2GB or equivalent,3.0,72930.0
+1313140,Cult of the Lamb,2022-08-11,24.99,"Action, Adventure, Indie, Strategy",GeForce GTX 560 Ti (1024 VRAM); Radeon HD 7750 (1024 VRAM),1.0,56262.0
+2933620,Call of Duty®: Black Ops 6,2024-10-24,99.99,Action,"AMD Radeonâ¢ RX 470, NVIDIAÂ® GeForceÂ® GTX 960 or IntelÂ® Arcâ¢ A580",2.0,2.0
 1240440,Halo Infinite,2021-11-15,0.0,"Action, Free To Play",AMD RX 570 or Nvidia GTX 1050 Ti,2.0,159495.0
 582010,Monster Hunter: World,2018-08-08,29.99,Action,NVIDIAÂ®GeForceÂ®GTX 760 or GTX1050 or AMD Radeonâ¢ R7 260x or RX 560,2.0,146139.4
 1449850,Yu-Gi-Oh! Master Duel,2022-01-18,0.0,"Simulation, Strategy, Free To Play",NVIDIA GeForce GTX 1650,4.0,129477.66666666667
@@ -241,7 +244,7 @@ id,game,release_date,price_USD,genres,pc_requirements,gpu_vram,peak
 859580,Imperator: Rome,2019-04-25,39.99,"Simulation, Strategy",NvidiaÂ® GeForceâ¢ GTX 460 or AMDÂ® Radeonâ¢ HD 6970,1.0,29077.0
 1371580,Myth of Empires,2024-02-21,29.99,"Action, Adventure, Indie, Massively Multiplayer, RPG",NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB,2.0,47619.0
 736190,Chinese Parents,2018-09-28,9.99,"Casual, Indie, RPG, Simulation",1024x768 High Color +,1.0,21311.0
-1097150,Fall Guys,2020-08-03,0.0,"Action, Casual, Indie, Massively Multiplayer, Sports",NVIDIA GTX 660 or AMD Radeon HD 7950,2.0,115790.0
+1097150,Fall Guys,2020-08-03,20.0,"Action, Casual, Indie, Massively Multiplayer, Sports",NVIDIA GTX 660 or AMD Radeon HD 7950,2.0,115790.0
 745920,Temtem,2022-09-06,44.99,"Adventure, Indie, Massively Multiplayer, RPG",Nvidia GT 650M or similar,1.0,39501.0
 1604030,V Rising,2024-05-08,34.99,"Action, Adventure, Massively Multiplayer","NVIDIA GeForce GTX 750 Ti (Maxwell or newer), 2 GB or AMD Radeon R7 360, 2 GB",2.0,120149.66666666667
 1782210,Crab Game,2021-10-29,0.0,"Action, Casual, Free To Play, Indie, Racing",Intel HD 520,1.0,61881.333333333336
